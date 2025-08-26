@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "RudraPatel.prettier-plugin-java-vscode",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
